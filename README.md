@@ -1,5 +1,5 @@
 # study
-Study of GitHub
+Study on GitHub
 
 - [ ] aaa
 - [x] bbb
